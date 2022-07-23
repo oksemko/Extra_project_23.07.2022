@@ -1,0 +1,12 @@
+.section {
+    background-color: #E5E5E5;
+}
+.container {
+    width: 1170px;
+    margin: 0 auto;
+}
+.title {
+    font-family: inherit;
+    font-size: 24px;
+    font-weight: 700;
+}
